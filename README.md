@@ -1,6 +1,6 @@
-<div align="center" style="margin-top: 10px; border-bottom: 2px solid rgb(50, 50, 50); margin-bottom: 20px;">
+<div align="center" style="margin-top: 10px; border-bottom: 2px solid #464646; margin-bottom: 40px;">
 
-<img src="./.github/assets/openklub-logo.png" alt="OpenKlub Logo" width="350px" style="margin-bottom: 20px;" />
+<img src="./.github/assets/openklub-logo.png" alt="OpenKlub Logo" width="350px" style="margin-bottom: 40px;" />
 
 ![GitHub License](https://img.shields.io/github/license/santychuycom/openklub)
 
