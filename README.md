@@ -6,6 +6,12 @@
 
 </div>
 
+<h2 style="border-bottom: 0px;">Resources</h2>
+
 [🎨 Figma Design](https://www.figma.com/design/tncJUUUxVsG6UBOS4zW9rh/OpenKlub?node-id=55-285&t=47dfRjLrrbUJZ4tI-1)
 
-...
+<br />
+
+<h2 style="border-bottom: 0px;">Roadmap</h2>
+
+- [ ] ...
